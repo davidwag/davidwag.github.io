@@ -1,2 +1,0 @@
-davidwag.github.io
-==================
